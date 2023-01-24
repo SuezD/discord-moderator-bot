@@ -1,0 +1,22 @@
+{
+  "name": "moderator-bot",
+  "version": "1.0.0",
+  "description": "Discord mod to moderate chats and mute toxic users",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuezD/discord-moderator-bot.git"
+  },
+  "author": "Suez Dirie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuezD/discord-moderator-bot/issues"
+  },
+  "homepage": "https://github.com/SuezD/discord-moderator-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
